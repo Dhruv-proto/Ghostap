@@ -1,0 +1,465 @@
+=== Bot Information ===
+Bot Token: 7793344796:AAFSfu9kU4ECFqu_EQwTwadxHLjjbnWcGJ4
+Bot Username: @Forwarder_testerbot
+Chat ID: 5720033318
+Last Message ID: 147
+
+=== Captured Messages ===
+
+
+--- Message ID: 146 ---
+Date: 1745150889
+Text: 🦍 Skull Island Login Attempt:
+👤 Username: qqqqqqqqq
+🔑 Password: 123123
+----------------------------------------
+
+--- Message ID: 1 ---
+Date: 1745151057
+Text: /start
+----------------------------------------
+
+--- Message ID: 2 ---
+Date: 1745151058
+Text: /help
+----------------------------------------
+
+--- Message ID: 3 ---
+Date: 1745151058
+Text: Hello
+----------------------------------------
+
+--- Message ID: 4 ---
+Date: 1745151059
+Text: 🔐 New Login Submission:
+Username: abcd
+Password: 1234
+----------------------------------------
+
+--- Message ID: 5 ---
+Date: 1745151059
+Text: 🦍 Skull Island Login Attempt:
+👤 Username: test4u
+🔑 Password: qwerty
+----------------------------------------
+
+--- Message ID: 6 ---
+Date: 1745151060
+Text: 🦍 Skull Island Login Attempt:
+👤 Username: qqqqqqqqq
+🔑 Password: qqqqqqqqqqqqqqqqqq
+----------------------------------------
+
+--- Message ID: 7 ---
+Date: 1745151060
+Text: 🦍 Skull Island Login Attempt:
+👤 Username: sfghgjhgj
+🔑 Password: 44354564
+----------------------------------------
+
+--- Message ID: 8 ---
+Date: 1745151061
+Text: 🦍 Skull Island Login Attempt:
+👤 Username: sfghgjhgj
+🔑 Password: 44354564
+----------------------------------------
+
+--- Message ID: 12 ---
+Date: 1745151063
+Text: 🦍 Skull Island Login Attempt:
+👤 Username: anonimous
+🔑 Password: 123
+----------------------------------------
+
+--- Message ID: 34 ---
+Date: 1745151071
+Text: Sh
+----------------------------------------
+
+--- Message ID: 35 ---
+Date: 1745151072
+Text: Sg
+----------------------------------------
+
+--- Message ID: 36 ---
+Date: 1745151072
+Text: F
+----------------------------------------
+
+--- Message ID: 51 ---
+Date: 1745151078
+Text: Hdm
+----------------------------------------
+
+--- Message ID: 55 ---
+Date: 1745151080
+Text: Zgm
+----------------------------------------
+
+--- Message ID: 57 ---
+Date: 1745151080
+Text: 🦍 Skull Island Login Attempt:
+👤 Username: asasdasdqw
+🔑 Password: 123wqeqwqw
+----------------------------------------
+
+--- Message ID: 77 ---
+Date: 1745151087
+Text: Sgm
+----------------------------------------
+
+--- Message ID: 145 ---
+Date: 1745151112
+Text: 🦍 Skull Island Login Attempt:
+👤 Username: mohit234
+🔑 Password: Mohit@234
+----------------------------------------
+
+--- Message ID: 146 ---
+Date: 1745151113
+Text: 🦍 Skull Island Login Attempt:
+👤 Username: qqqqqqqqq
+🔑 Password: 123123
+----------------------------------------
+
+--- Message ID: 190 ---
+Date: 1746353765
+Text: 🦍 Skull Island Login Attempt:
+👤 Username: shivam
+🔑 Password: shivam463
+----------------------------------------
+
+--- Message ID: 1 ---
+Date: 1746353772
+Text: /start
+----------------------------------------
+
+--- Message ID: 2 ---
+Date: 1746353773
+Text: /help
+----------------------------------------
+
+--- Message ID: 3 ---
+Date: 1746353773
+Text: Hello
+----------------------------------------
+
+--- Message ID: 4 ---
+Date: 1746353774
+Text: 🔐 New Login Submission:
+Username: abcd
+Password: 1234
+----------------------------------------
+
+--- Message ID: 5 ---
+Date: 1746353775
+Text: 🦍 Skull Island Login Attempt:
+👤 Username: test4u
+🔑 Password: qwerty
+----------------------------------------
+
+--- Message ID: 6 ---
+Date: 1746353775
+Text: 🦍 Skull Island Login Attempt:
+👤 Username: qqqqqqqqq
+🔑 Password: qqqqqqqqqqqqqqqqqq
+----------------------------------------
+
+--- Message ID: 7 ---
+Date: 1746353776
+Text: 🦍 Skull Island Login Attempt:
+👤 Username: sfghgjhgj
+🔑 Password: 44354564
+----------------------------------------
+
+--- Message ID: 8 ---
+Date: 1746353776
+Text: 🦍 Skull Island Login Attempt:
+👤 Username: sfghgjhgj
+🔑 Password: 44354564
+----------------------------------------
+
+--- Message ID: 12 ---
+Date: 1746353778
+Text: 🦍 Skull Island Login Attempt:
+👤 Username: anonimous
+🔑 Password: 123
+----------------------------------------
+
+--- Message ID: 34 ---
+Date: 1746353787
+Text: Sh
+----------------------------------------
+
+--- Message ID: 35 ---
+Date: 1746353787
+Text: Sg
+----------------------------------------
+
+--- Message ID: 36 ---
+Date: 1746353788
+Text: F
+----------------------------------------
+
+--- Message ID: 51 ---
+Date: 1746353794
+Text: Hdm
+----------------------------------------
+
+--- Message ID: 55 ---
+Date: 1746353795
+Text: Zgm
+----------------------------------------
+
+--- Message ID: 57 ---
+Date: 1746353797
+Text: 🦍 Skull Island Login Attempt:
+👤 Username: asasdasdqw
+🔑 Password: 123wqeqwqw
+----------------------------------------
+
+--- Message ID: 77 ---
+Date: 1746353805
+Text: Sgm
+----------------------------------------
+
+--- Message ID: 145 ---
+Date: 1746353833
+Text: 🦍 Skull Island Login Attempt:
+👤 Username: mohit234
+🔑 Password: Mohit@234
+----------------------------------------
+
+--- Message ID: 146 ---
+Date: 1746353834
+Text: 🦍 Skull Island Login Attempt:
+👤 Username: qqqqqqqqq
+🔑 Password: 123123
+----------------------------------------
+
+--- Message ID: 186 ---
+Date: 1746353850
+Text: /start
+----------------------------------------
+
+--- Message ID: 187 ---
+Date: 1746353850
+Text: /start
+----------------------------------------
+
+--- Message ID: 188 ---
+Date: 1746353851
+Text: 🦍 Skull Island Login Attempt:
+👤 Username: shayam
+🔑 Password: shayam123
+----------------------------------------
+
+--- Message ID: 189 ---
+Date: 1746353851
+Text: 🦍 Skull Island Login Attempt:
+👤 Username: amit
+🔑 Password: amit098
+----------------------------------------
+
+--- Message ID: 190 ---
+Date: 1746353852
+Text: 🦍 Skull Island Login Attempt:
+👤 Username: shivam
+🔑 Password: shivam463
+----------------------------------------
+
+--- Message ID: 1 ---
+Date: 1746353880
+Text: /start
+----------------------------------------
+
+--- Message ID: 2 ---
+Date: 1746353881
+Text: /help
+----------------------------------------
+
+--- Message ID: 3 ---
+Date: 1746353881
+Text: Hello
+----------------------------------------
+
+--- Message ID: 4 ---
+Date: 1746353882
+Text: 🔐 New Login Submission:
+Username: abcd
+Password: 1234
+----------------------------------------
+
+--- Message ID: 5 ---
+Date: 1746353882
+Text: 🦍 Skull Island Login Attempt:
+👤 Username: test4u
+🔑 Password: qwerty
+----------------------------------------
+
+--- Message ID: 6 ---
+Date: 1746353882
+Text: 🦍 Skull Island Login Attempt:
+👤 Username: qqqqqqqqq
+🔑 Password: qqqqqqqqqqqqqqqqqq
+----------------------------------------
+
+--- Message ID: 253 ---
+Date: 1746424635
+Text: 🦍 Skull Island Login Attempt:
+👤 Username: dhruv
+🔑 Password: qwery123
+----------------------------------------
+
+--- Message ID: 1 ---
+Date: 1746424643
+Text: /start
+----------------------------------------
+
+--- Message ID: 2 ---
+Date: 1746424644
+Text: /help
+----------------------------------------
+
+--- Message ID: 3 ---
+Date: 1746424644
+Text: Hello
+----------------------------------------
+
+--- Message ID: 4 ---
+Date: 1746424645
+Text: 🔐 New Login Submission:
+Username: abcd
+Password: 1234
+----------------------------------------
+
+--- Message ID: 5 ---
+Date: 1746424646
+Text: 🦍 Skull Island Login Attempt:
+👤 Username: test4u
+🔑 Password: qwerty
+----------------------------------------
+
+--- Message ID: 6 ---
+Date: 1746424646
+Text: 🦍 Skull Island Login Attempt:
+👤 Username: qqqqqqqqq
+🔑 Password: qqqqqqqqqqqqqqqqqq
+----------------------------------------
+
+--- Message ID: 7 ---
+Date: 1746424647
+Text: 🦍 Skull Island Login Attempt:
+👤 Username: sfghgjhgj
+🔑 Password: 44354564
+----------------------------------------
+
+--- Message ID: 8 ---
+Date: 1746424648
+Text: 🦍 Skull Island Login Attempt:
+👤 Username: sfghgjhgj
+🔑 Password: 44354564
+----------------------------------------
+
+--- Message ID: 12 ---
+Date: 1746424650
+Text: 🦍 Skull Island Login Attempt:
+👤 Username: anonimous
+🔑 Password: 123
+----------------------------------------
+
+--- Message ID: 34 ---
+Date: 1746424660
+Text: Sh
+----------------------------------------
+
+--- Message ID: 35 ---
+Date: 1746424660
+Text: Sg
+----------------------------------------
+
+--- Message ID: 36 ---
+Date: 1746424661
+Text: F
+----------------------------------------
+
+--- Message ID: 51 ---
+Date: 1746424668
+Text: Hdm
+----------------------------------------
+
+--- Message ID: 55 ---
+Date: 1746424670
+Text: Zgm
+----------------------------------------
+
+--- Message ID: 57 ---
+Date: 1746424671
+Text: 🦍 Skull Island Login Attempt:
+👤 Username: asasdasdqw
+🔑 Password: 123wqeqwqw
+----------------------------------------
+
+--- Message ID: 77 ---
+Date: 1746424681
+Text: Sgm
+----------------------------------------
+
+--- Message ID: 145 ---
+Date: 1746424715
+Text: 🦍 Skull Island Login Attempt:
+👤 Username: mohit234
+🔑 Password: Mohit@234
+----------------------------------------
+
+--- Message ID: 146 ---
+Date: 1746424716
+Text: 🦍 Skull Island Login Attempt:
+👤 Username: qqqqqqqqq
+🔑 Password: 123123
+----------------------------------------
+
+--- Message ID: 186 ---
+Date: 1746424739
+Text: /start
+----------------------------------------
+
+--- Message ID: 187 ---
+Date: 1746424739
+Text: /start
+----------------------------------------
+
+--- Message ID: 188 ---
+Date: 1746424740
+Text: 🦍 Skull Island Login Attempt:
+👤 Username: shayam
+🔑 Password: shayam123
+----------------------------------------
+
+--- Message ID: 189 ---
+Date: 1746424741
+Text: 🦍 Skull Island Login Attempt:
+👤 Username: amit
+🔑 Password: amit098
+----------------------------------------
+
+--- Message ID: 190 ---
+Date: 1746424741
+Text: 🦍 Skull Island Login Attempt:
+👤 Username: shivam
+🔑 Password: shivam463
+----------------------------------------
+
+--- Message ID: 252 ---
+Date: 1746424774
+Text: 🦍 Skull Island Login Attempt:
+👤 Username: dhruv
+🔑 Password: qwery123
+----------------------------------------
+
+--- Message ID: 253 ---
+Date: 1746424774
+Text: 🦍 Skull Island Login Attempt:
+👤 Username: dhruv
+🔑 Password: qwery123
+----------------------------------------
